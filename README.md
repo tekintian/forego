@@ -12,7 +12,9 @@
 
 ##### Compile from Source
 
-    $ go get -u github.com/ddollar/forego
+    $ go get -u github.com/tekintian/forego
+    cd github.com/tekintian/forego
+    make
 
 ### Usage
 
