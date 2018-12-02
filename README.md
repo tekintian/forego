@@ -16,6 +16,8 @@
     cd github.com/tekintian/forego
     make
 
+    more info? [please read this article go语言Linx编译打包步骤](https://github.com/tekintian/docker-gen/blob/master/docs/compile-step-by-step.md)
+
 ### Usage
 
     $ cat Procfile
